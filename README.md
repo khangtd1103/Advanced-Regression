@@ -1,4 +1,4 @@
-# Housing Price Linear Regression
+# Housing Price Advanced Regression
 > Build a regularizared linear regression model for the prediction of actual housing price
 
 
